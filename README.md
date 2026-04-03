@@ -1,7 +1,8 @@
-### - 👋 Hi, I’m @Champ-4 . My name is B Muhammad Suhaib.
-### - 👀 I’m interested in Data Science, Software Dev, App dev & ...
-### - 🌱 I’m currently pursuing my Engineering in Computer Science.
-### - 💞️ Looking to collaborate on any projects. Ready anytime to work as an intern.
+### - 👋 Hi, I'm Suhaib.
+### - 👀 I’m interested in Power BI, Business Intelligence, Data Analysis, ML, Data Science, Software Dev, App dev, Graphic Design, Social Media Management, etc,.
+### - 🌱 Bachelors degree in Computer Science, Worked with major Middle East / GCC companies.
+### - 💞️ Looking to collaborate on any projects. 
+### - Immedeate availability to work as a freelance / Full time - Power BI / Reporting Specialist / Data Analyst / Visualization Developer / Business Developer / CRM.
 ### - 📫 Reach me by mail suhaib2569@gmail.com
 
 <!---
@@ -9,19 +10,30 @@ Champ-4/Champ-4 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <hr/>
-        <li>Currently pursuing my <b>Engineering</b> in <b>Computer Science @Sahyadri college of Engineering and Management, Mangalore</b>.
+        <li><b>Software Engineer @ Novigo Solutions, Mangalore, India</b>.
+        <li><b> Power BI Consultant @ Dubai Petroleum, Dubai, United Arab Emirates</b>.
+        <li><b>Data Science Intern @ Aptra Technologies, Mangalore</b>
+        <li><b>Data Science Intern @ The Sparks Foundation, Singapore</b>
+<hr/>
+                
+<hr/>
+        <li><b>Engineering</b> in <b>Computer Science @Sahyadri college of Engineering and Management, Mangalore</b>.
         <li><b>PUC @St ALoysius College, Mangalore</b>.
         <li><b>School @MGC, Mangalore</b>
 <hr/>
                 <h3>Skills</h3>
+                        <li>Power BI
                         <li>Data Analytics
+                        <li>Business Intelligence
+                        <li>Machine Learning
+                        <li>Excel
+                        <li>Pythin
+                        <li>SQL
+                        <li>Graphic Designing
+                        <li>Social Media Marketing
                         <li>Web Development
                         <li>App Developer
-                        <li>Machine Learning
-                        <li>Python
-                        <li>C programming
-                        <li>C++ programming
-                        <li>Java basics
+
 <hr/>
                                 
 <h3 align="left">Connect with me:</h3>
